@@ -1,1 +1,2 @@
 # Mission-to-Mars
+## Purpose of this repository is to scrape web data from several space-related sites, and organize into a new web resource with a summary of the info and the ability to re-scrape for the latest information
